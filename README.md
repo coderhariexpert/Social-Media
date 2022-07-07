@@ -38,6 +38,9 @@ Link:https://coderhariexpert.github.io/Social-Media/
 ![Contact](https://user-images.githubusercontent.com/96340194/177691901-c37f014e-6ad0-4c99-a616-fd7b334b2c45.png)
 
 
+#footer
+
+![Footer](https://user-images.githubusercontent.com/96340194/177692035-9eb096d5-0f3d-4447-abe1-0b28ed6e5f8a.png)
 
 
 
